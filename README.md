@@ -9,9 +9,9 @@
 
 - Yoon JangWon [:octocat:](http://github.com/jangwonyoon) 
 - Kim Juhye [:octocat:](https://github.com/Juhye-Kim)
-- Yeon jewon [:octocat:](https://github.com/JewonYeon)
-- Seo insoo [:octocat:](https://github.com/Outwater)
-- Lee useong [:octocat:](https://github.com/useonglee)
+- Yeon Jewon [:octocat:](https://github.com/JewonYeon)
+- Seo Insoo [:octocat:](https://github.com/Outwater)
+- Lee Useong [:octocat:](https://github.com/useonglee)
 
 ### 🎄 TIL 기록
 
@@ -19,6 +19,6 @@
 | :----------: | :------------------: |
 | Yoon JangWon | [:link:](./jangwon/) |
 | Kim Juhye  | [:link:](./juhye/)  |
-| Yeon jewon  | [:link:](./jewon/) |
-| Seo insoo  | [:link:](./insoo/) |
-| Lee useong  | [:link:](./useong/) |
+| Yeon Jewon  | [:link:](./jewon/) |
+| Seo Insoo  | [:link:](./insoo/) |
+| Lee Useong  | [:link:](./useong/) |
